@@ -4,7 +4,7 @@ contact_links:
     url: https://www.github.com/ory/kratos/discussions
     about: Please ask and answer questions here.
   - name: ORY Discussions
-    url: test.md
+    url: ../../../discussions
     about: Please ask and answer questions here.
   - name: ORY Chat
     url: https://www.ory.sh/asd
