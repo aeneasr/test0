@@ -1,6 +1,9 @@
 blank_issues_enabled: false
 contact_links:
   - name: ORY Community
+    url: https://www.github/ory/kratos/discussions
+    about: Please ask and answer questions here.
+  - name: ORY Community
     url: ~/../../discussions
     about: Please ask and answer questions here.
   - name: ORY Chat
